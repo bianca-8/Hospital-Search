@@ -16,3 +16,21 @@ function filter() {
         }
     }
 }
+
+function mapAppear() {
+    var map = document.getElementById('map');
+    var popup = document.crateElement('div');
+    var close = document.createElement('span');
+
+    popup.className = 'popup';
+    popup.innerHTML ='<div class="popup">THIS IS A MAP</div>';
+    close.className = 'close';
+    close.innerHTML = '&times;';
+
+    popup.appendChild(close);
+    map.appendChild(popup);
+
+    close.addEventListener('click', function() {
+        popup.removeChild(popup);
+    });
+}
