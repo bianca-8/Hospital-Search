@@ -18,12 +18,12 @@ function filter() {
 }
 
 function mapAppear() {
-    var map = document.getElementById('map');
-    var popup = document.crateElement('div');
+    var map = document.querySelector('.map')
+    var popup = document.createElement('div');
     var close = document.createElement('span');
 
     popup.className = 'popup';
-    popup.innerHTML ='<div class="popup">THIS IS A MAP</div>';
+    popup.innerHTML ='<div class="popup-content"><img src="map.png"></div>';
     close.className = 'close';
     close.innerHTML = '&times;';
 
@@ -31,6 +31,6 @@ function mapAppear() {
     map.appendChild(popup);
 
     close.addEventListener('click', function() {
-        popup.removeChild(popup);
+        popup.parentNode.removeChild(popup)
     });
 }
