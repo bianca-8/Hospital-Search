@@ -13,35 +13,40 @@
     <img src="logo1.png" width=58px height=60px>
     
     <div class="map">
-        <a onclick="mapAppear()"><img src="map icon.png" alt="map" width=30px height=30px></a>
+        <a onclick="mapAppear()"><img src="map icon.svg" alt="map" width=30px height=30px></a>
     </div>
 </header>
 
 <body>
     <h1>The Hospital Volunteer Website of Everything</h1>
     
-    <input type="text" id="search" onkeyup="filter()" placeholder="Search...">
-        <div>
-            <div class="item">
-                <div class="title">
-                    <h2>oi</h2>
-                    <h2 >Extension</h2>
-                </div>
-                <div class="info">
-                    <p>Description</p>
-                    <p>3395</p>
-                </div>
+    <input type="text" id="search" onkeyup="newFilter()" placeholder="Search...">
+    <div>
+        <input type="checkbox" id="filterTitle">
+        <label for="filterTitle">Filter Title Only</label>
+    </div>
+
+    <div id="table">
+        <div class="item">
+            <div class="title">
+                <h2>oi</h2>
+                <h2 >Extension</h2>
             </div>
-            <div class="item">
-                <div class="title">
-                    <h2>Name</h2>
-                    <h2>Extension</h2>
-                </div>
-                <div class="info">
-                    <p>This is a descripty description. It is really detailed, filled to the rim with information and tells you everything you need to know about this! yeah yeah yeah yeahyeahyeahyeahy</p>
-                    <p>7186</p>
-                </div>
+            <div class="info">
+                <p>Description</p>
+                <p>3395</p>
             </div>
-        </div> 
+        </div>
+        <div class="item">
+            <div class="title">
+                <h2>Name</h2>
+                <h2>Extension</h2>
+            </div>
+            <div class="info">
+                <p>This is a descripty description. It is really detailed, filled to the rim with information and tells you everything you need to know about this! yeah yeah yeah yeahyeahyeahyeahy</p>
+                <p>7186</p>
+            </div>
+        </div>
+    </div> 
 </body>
 </html>
