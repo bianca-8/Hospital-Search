@@ -81,7 +81,7 @@ h1 {
 }
 
 #table {
-    margin: 1rem;
+    margin: 2rem 2rem 4rem 2rem;
 }
 
 #search {
@@ -94,7 +94,7 @@ h1 {
 }
 
 #filterTitle {
-    margin-bottom: 1.875rem;
+    margin-bottom: 1rem;
     color: #377e9c
 }
 
@@ -116,7 +116,7 @@ h1 {
     display: flex;
     justify-content: space-between;
     padding: 0.75rem;
-    width: 89%;
+    width: 100%;
     text-align: left;
     color: #377e9c
 }
@@ -130,6 +130,7 @@ footer {
     color: white;
     bottom: 0;
     width: 100%;
+    line-height: 1rem;
 }
 
 #credits {
