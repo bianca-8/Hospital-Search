@@ -64,7 +64,7 @@ function mapAppear() {
     var close = document.createElement('span');
 
     popup.className = 'popup';
-    popup.innerHTML ='<div class="popup-content"><img src="map.png" width=650vw><img src="map2.png" width=650px></div>';
+    popup.innerHTML ='<div class="popup-content"><img src="Images/map.png" width=650vw><img src="Images/map2.png" width=650px></div>';
     close.className = 'close';
     close.innerHTML = '&times;';
 
