@@ -41,19 +41,22 @@ function filterTitle() {
 var checkbox = false;
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('filterTitle').addEventListener("change", () => {
-        if ( checkbox.checked ) {
-            checkbox = false;
-        } else {
+        if ( document.getElementById("filterTitle").checked ) {
             checkbox = true;
+            console.log("checked")
+        } else {
+            checkbox = false;
+            console.log("unchecked")
         }
     });
 });
 
 function newFilter() {
     if (!checkbox) {
+        console.log("not checkboxed")
         filter()
-    }
-    else {
+    } else {
+        console.log("checkboxed")
         filterTitle()
     }
 }
