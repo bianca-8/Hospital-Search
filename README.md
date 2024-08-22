@@ -1,8 +1,8 @@
 <h1>The Hospital Website of Everything: Volunteer Version</h1>
 
-[![Youtube Video: https://www.youtube.com/watch?v=mOv5McYPgPM](https://img.youtube.com/vi/mOv5McYPgPM/0.jpg)]([https://www.youtube.com/watch?v=mOv5McYPgPM](https://youtu.be/mOv5McYPgPM))
+[![Youtube Video: https://www.youtube.com/watch?v=mOv5McYPgPM](https://img.youtube.com/vi/mOv5McYPgPM/0.jpg)](https://www.youtube.com/watch?v=mOv5McYPgPM)
 
-[![Youtube Video: https://www.youtube.com/watch?v=h12OmjgjkrI](https://img.youtube.com/vi/h12OmjgjkrI/0.jpg)]([https://www.youtube.com/watch?v=h12OmjgjkrI](https://youtu.be/h12OmjgjkrI))
+[![Youtube Video: https://www.youtube.com/watch?v=h12OmjgjkrI](https://img.youtube.com/vi/h12OmjgjkrI/0.jpg)](https://www.youtube.com/watch?v=h12OmjgjkrI)
 
 <p>This is a website of everything volunteers at the hospital information desk would ever need. It's also responsive and can work on different devices!
 <p>I'm going to try and actually get it implemented at the hospital once I add in the real information!!</p>
