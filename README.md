@@ -4,6 +4,7 @@
 
 [![Youtube Video: https://www.youtube.com/watch?v=h12OmjgjkrI](https://img.youtube.com/vi/h12OmjgjkrI/0.jpg)](https://www.youtube.com/watch?v=h12OmjgjkrI)
 
+<p>This project made it to the 3rd out of 5 total rounds for Hack Club Showcase in Aug 2024. That is the top 90/2000+ projects submitted to arcade!</p>
 <p>This is a website of everything volunteers at the hospital information desk would ever need. It's also responsive and can work on different devices!
 <p>I'm going to try and actually get it implemented at the hospital once I add in the real information!!</p>
 <p>There is a search bar to search for specific key terms, a checkbox to search only through the titles (so it does not include the description or extensions).</p>
