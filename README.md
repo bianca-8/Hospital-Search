@@ -1,6 +1,6 @@
 <h1>The Hospital Website of Everything: Volunteer Version</h1>
 
-<b><p>This project made it to the 3rd out of 5 total rounds for Hack Club Showcase in Aug 2024. That is the top 90/2000+ projects submitted to arcade, or top <0.05%!!</p></b>
+<b><p>This project made it to the 3rd out of 5 total rounds for Hack Club Showcase in Aug 2024. That is the top 90/2000+ projects submitted to arcade!!</p></b>
 
 [![Youtube Video: https://www.youtube.com/watch?v=mOv5McYPgPM](https://img.youtube.com/vi/mOv5McYPgPM/0.jpg)](https://www.youtube.com/watch?v=mOv5McYPgPM)
 
